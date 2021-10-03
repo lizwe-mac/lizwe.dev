@@ -437,8 +437,9 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-image img {
-    width: 59px;
-	height: 22px;
+    width: 122.5175px;
+	height: 25.635px;
+	
 }
 
 .navbar .logo-text {
@@ -554,7 +555,7 @@ input[type='checkbox'] {
 
 .header .area-2 {
 	height: 400px;
-	background: url('../images/lizwe.JPG') center center no-repeat;
+	/* background: url('../images/logp.svg') center center no-repeat; */
 	background-size: cover;
 }
 
@@ -599,8 +600,8 @@ input[type='checkbox'] {
 /*     Services     */
 /********************/
 .basic-2 {
-	padding-top: 8.25rem;
-	padding-bottom: 5.375rem;
+	padding-top: 4.25rem;
+	padding-bottom: 3.375rem;
 }
 
 .basic-2 .h2-heading {
@@ -634,7 +635,7 @@ input[type='checkbox'] {
 .basic-3 {
 	padding-top: 8rem;
 	padding-bottom: 10.5rem;
-	background: linear-gradient(180deg, rgba(247, 201, 198, 0.0), rgba(215, 148, 145, 1));
+	background: linear-gradient(180deg, rgba(83, 52, 52, 0.3), rgb(250, 250, 250, 0.8)), url('../images/computer.jpg') center center no-repeat;
 	/* background: linear-gradient(to bottom right, rgba(204, 107, 100, 0.6), rgba(235, 195, 194, 0.6)), url('../images/lizwe.jpg') center center no-repeat; */
 
 	background-size: cover;
@@ -643,8 +644,9 @@ input[type='checkbox'] {
 
 .basic-3 h4 {
 	margin-top: 5rem;
-	color: #fff;
+	color: #ffffff;
 	font-size: 1rem !important;
+	background-color: #d79491;
 	
 }
 
@@ -655,9 +657,9 @@ input[type='checkbox'] {
 }
 
 .basic-3 .btn-solid-lg {
-	border-color: #ffffff;
+	border-color: #d46c66;
 	background-color: transparent;
-	color: #000;
+	color: #d46c66;
 	/* color: #d79491; */
 }
 
@@ -740,7 +742,7 @@ input[type='checkbox'] {
 /*     Contact     */
 /*******************/
 .form-1 {
-	padding-top: 8.25rem;
+	padding-top: 4.25rem;
 	padding-bottom: 7.25rem;
 }
 
@@ -1069,14 +1071,14 @@ a:hover.back-to-top {
 	}
 
 	.header .area-1 {
-		padding-top: 0rem;
+		padding-top: 8rem;
 	}
 
 	.header .text-container {
 		width: 460px;
 		margin-right: 5.875rem;
 		margin-top: 0;
-		background-color: #393a34;
+		/* background-color: #393a34; */
 	}
 
 	.header .h1-large {
