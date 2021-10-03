@@ -647,6 +647,7 @@ input[type='checkbox'] {
 	color: #ffffff;
 	font-size: 1rem !important;
 	background-color: #d79491;
+	border-radius: 0.2rem;
 	
 }
 
@@ -657,15 +658,16 @@ input[type='checkbox'] {
 }
 
 .basic-3 .btn-solid-lg {
-	border-color: #d46c66;
-	background-color: transparent;
-	color: #d46c66;
+	border-color: none;
+	border-radius: 0.2rem;
+	background-color:#d79491;
+	color: #faf7f6;
 	/* color: #d79491; */
 }
 
 .basic-3 .btn-solid-lg:hover {
-	background-color: transparent;
-	color: #ffffff;
+	background-color: #f8f8f8;
+	color: #d79491;
 }
 
 
