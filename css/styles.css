@@ -628,6 +628,25 @@ input[type='checkbox'] {
 	margin-left: 1.5rem;
 }
 
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
 
 /**********************/
 /*     Invitation     */
@@ -643,10 +662,10 @@ input[type='checkbox'] {
 }
 
 .basic-3 h4 {
-	margin-top: 5rem;
+	margin-top: 2rem;
 	color: #ffffff;
 	font-size: 1rem !important;
-	background-color: #d79491;
+	background-color: #d79491a8;
 	border-radius: 0.2rem;
 	
 }
@@ -659,6 +678,7 @@ input[type='checkbox'] {
 
 .basic-3 .btn-solid-lg {
 	border-color: none;
+	margin-top: 2rem;
 	border-radius: 0.2rem;
 	background-color:#d79491;
 	color: #faf7f6;
