@@ -663,10 +663,12 @@ input[type='checkbox'] {
 
 .basic-3 h4 {
 	margin-top: 2rem;
-	color: #ffffff;
+	color: #d79491;
 	font-size: 1rem !important;
-	background-color: #d79491a8;
+	background-color: rgba(255, 255, 255, 0.671);
 	border-radius: 0.2rem;
+	border-color: #d79491 !important;
+	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.04) !important;
 	
 }
 
@@ -677,17 +679,17 @@ input[type='checkbox'] {
 }
 
 .basic-3 .btn-solid-lg {
-	border-color: none;
+	border-color: #d79491;
 	margin-top: 2rem;
 	border-radius: 0.2rem;
-	background-color:#d79491;
-	color: #faf7f6;
+	background-color: rgba(255, 255, 255, 0.7);
+	color: #d79491;
 	/* color: #d79491; */
 }
 
 .basic-3 .btn-solid-lg:hover {
-	background-color: #f8f8f8;
-	color: #d79491;
+	background-color: #d79491;
+	color: #ffff;
 }
 
 
